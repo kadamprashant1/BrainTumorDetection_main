@@ -37,7 +37,7 @@ The model is trained on a dataset of MRI images. For the training script (`MainT
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/kadamprashant1/BrainTumorDetection_main.git
     cd BrainTumorDetection_main
     ```
 
